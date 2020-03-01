@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cbernard01/first-typescript-app/issues"
   },
-  "homepage": "https://github.com/cbernard01/first-typescript-app#readme"
+  "homepage": "https://github.com/cbernard01/first-typescript-app#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
 }
